@@ -65,8 +65,10 @@ a {
     font-weight: 700;
     color: #FFFFFF;
     font-size: 56px;
-    line-height: 1.07142857;
+    line-height:1.07;
     font-weight: 700;
+    text-align: center;
+    letter-spacing: 0.02em;
 }
 
 .order-button {
@@ -76,7 +78,15 @@ a {
     font-weight: 500;
     line-height: 1.5;
     cursor: pointer;
+    font-family: "Roboto", sans-serif;
+    letter-spacing: 0.04em;
 }
+
+.order-button:hover,
+.order-button:focus {
+    background-color: #404BBF;
+}
+
 
 .hidden-title {
     display: none;
