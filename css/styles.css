@@ -5,10 +5,9 @@
 }
 
 body {
-    font-family: 'Raleway', 'Montserrat', 'Open Sans' sans-serif;
-    font-family: 'Roboto','Helvetica Neue','Verdana' sans-serif;
+    font-family: 'Raleway',sans-serif;
     background-color: #FFFFFF;
-    color: #2E2F42
+    color: #434455;
 }
 
 a {
@@ -16,23 +15,40 @@ a {
 }
 
 .logo {
-    width: 115px;
-    height: 24px 56px 64px; 
-    padding: 5px, 0px, 5px, 0px;
-    color: ;
+    font-family:'Raleway',sans-serif;
+    font-weight: 700;
+    color: #4D5AE5;
+    font-size: 18px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
 }
 
+.logo-accent{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    color:#2E2F42;
+    font-size: 18px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
 .nav-link{
     color: #434455;
     font-size: 16px;
     line-height: 1.5;
     font-weight: 500;
+    letter-spacing: 0.02em;
 
 }
 
-.nav-link:hover {
+.contacts-list{
+    font-style: normal;
+}
+
+.nav-link:hover
+.nav-link:active{
     color: #404BBF;
 }
+
 
 .contacts {
     color: #434455;
