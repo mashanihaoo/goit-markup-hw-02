@@ -1,6 +1,6 @@
 
 body {
-    font-family: "Roboto", sans-serif
+    font-family: "Roboto", sans-serif;
     background-color: #FFFFFF;
     color: #434455;
 }
@@ -16,6 +16,7 @@ a {
     font-size: 18px;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    line-height: 1.17;
 }
 
 .logo-accent{
@@ -25,6 +26,8 @@ a {
     font-size: 18px;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    line-height: 1.17;
+
 }
 .nav-link{
     color: #434455;
