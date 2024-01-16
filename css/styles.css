@@ -110,16 +110,33 @@ a {
     background-color:#F4F4FD;
 }
 
-.h2-title {
+.team-title {
     font-weight: 700;
     color: #2E2F42;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
+    text-transform: capitalize;
 }
 
-portfolio-title{
+.team-list .person-name{
+color: #2E2F42;
+font-size: 20px;
+font-weight: 500;
+line-height: 1.2;
+letter-spacing: 0.02em;
+}
+
+.team-list .persons-role{
+    color: #434455;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+
+.portfolio-title{
     font-weight: 700;
     color: #2E2F42;
     font-size: 36px;
