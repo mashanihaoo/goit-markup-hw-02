@@ -9,26 +9,26 @@ a {
     text-decoration: none;
 }
 
-.logo {
+
+.logo  {
     font-family:'Raleway',sans-serif;
     font-weight: 700;
+    color: #2E2F42;
+    font-size: 18px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    line-height: 1.16;
+}
+
+.logo .web-logo{
     color: #4D5AE5;
-    font-size: 18px;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    line-height: 1.17;
 }
 
-.logo-accent{
-    font-family: 'Raleway', sans-serif;
-    font-weight: 700;
-    color:#2E2F42;
-    font-size: 18px;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    line-height: 1.17;
+.logo .studio.logo {
 
 }
+
+
 .nav-link{
     color: #434455;
     font-size: 16px;
