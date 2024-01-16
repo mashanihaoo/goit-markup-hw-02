@@ -120,6 +120,10 @@ a {
     text-transform: capitalize;
 }
 
+.team-list .person{
+    background-color: #FFFFFF;
+}
+
 .team-list .person-name{
 color: #2E2F42;
 font-size: 20px;
