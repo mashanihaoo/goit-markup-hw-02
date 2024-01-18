@@ -43,8 +43,8 @@ a {
 }
 
 
-.nav-link{
-    color: #434455;
+.nav-list .nav-link{
+    color: #2E2F42;
     font-size: 16px;
     line-height: 1.5;
     font-weight: 500;
@@ -52,9 +52,7 @@ a {
 
 }
 
-.nav-link-first{
-    color: #2E2F42;
-}
+
 
 .contacts-list{
     font-style: normal;
