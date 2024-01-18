@@ -52,12 +52,16 @@ a {
 
 }
 
+.nav-link-first{
+    color: #2E2F42;
+}
+
 .contacts-list{
     font-style: normal;
 }
 
 
-.nav-link:hover,
+.nav-list .nav-link:hover,
 .nav-link:focus{
     color: #404BBF;
 }
