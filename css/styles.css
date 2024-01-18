@@ -8,6 +8,7 @@ body {
 a {
     text-decoration: none;
 }
+
 ul {
 list list-style-type: none;
 }
@@ -59,12 +60,14 @@ list list-style-type: none;
     font-style: normal;
 }
 
-
-.nav-list .nav-link:hover,
-.nav-list .nav-link:focus{
-    color: #404BBF;
+.address .address-list {
+    font-style: normal;
 }
 
+.address-item:hover,
+.address-item:focus {
+    color: #404bbf;
+}
  
 
 
