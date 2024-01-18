@@ -57,13 +57,12 @@ a {
 }
 
 
-.nav-link:hover{
+.nav-link:hover,
+.nav-link:focus{
     color: #404BBF;
 }
 
- .nav-link:focus{
-    color: #404bbf;
- }
+ 
 
 
 .contacts {
